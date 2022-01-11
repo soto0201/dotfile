@@ -85,8 +85,8 @@ highlight Normal ctermbg=NONE guibg=NONE
 highlight NonText ctermbg=NONE guibg=NONE
 highlight SpecialKey ctermbg=NONE guibg=NONE
 highlight EndOfBuffer ctermbg=NONE guibg=gray
-
-
+set fileformat=unix
+set encoding=utf-8
 set number
 " 行番号を表示
 
